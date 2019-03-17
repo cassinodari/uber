@@ -1,5 +1,7 @@
 import React from 'react';
-import { Text } from 'react-native';
+import Map from '../src/components/map';
+import Search from '../src/components/search';
 
-const App = () => <Text>Cadê o mapa??? Heinnnnn?</Text>;
+const App = () => <Map />;
+
 export default App;
